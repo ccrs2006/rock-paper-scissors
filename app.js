@@ -1,3 +1,4 @@
+
 //initial sound
  var $audioCharacter = document.createElement('audio');
  $audioCharacter.setAttribute('src', 'assets/sounds/call_of_duty.mp3');
